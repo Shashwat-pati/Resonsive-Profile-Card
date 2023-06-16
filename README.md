@@ -2,7 +2,7 @@
 
 🔥 A simple profile card to view details such as:- 
 
---> Name
+--> Name , Profile Picture to display.
 
 --> Social Media handles: Facebook, Twitter, Instagram, Youtube.
 
